@@ -1,0 +1,17 @@
+.weather-history {
+  margin: auto;
+  border: 1px solid black;
+  width: 60vw;
+}
+
+
+.history_back_button{
+    color: green;
+    padding: 8px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-top : 5px;
+}

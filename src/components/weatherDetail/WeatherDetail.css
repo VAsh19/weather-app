@@ -1,0 +1,12 @@
+.weather-summary{
+    margin: auto;
+    border: 1px solid black;
+    width : 60vw;
+    /* height : 80vh; */
+}
+
+
+.weekly-weather{
+    display: flex;
+    justify-content: space-around;
+}

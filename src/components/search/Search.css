@@ -1,0 +1,39 @@
+.weather-container{
+    margin: auto;
+    border: 1px solid black;
+    width : 60vw;
+    height : 20vh;
+}
+
+.weather-header{
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.weather-search{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.search-button{
+    color: green;
+    padding: 8px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.history-button{
+    color: white;
+    padding: 8px;
+    background-color: purple;
+    /* border: 1px solid purple; */
+    border-radius: 5px;
+    cursor: pointer;
+}
